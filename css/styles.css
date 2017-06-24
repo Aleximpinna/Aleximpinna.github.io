@@ -92,26 +92,25 @@ input:focus, textarea:focus {
 —————————————————————————————————————————————————————————————————————— */
 
 .title {
-	font-family: 'Crimson Text', sans-serif;
+	font-family: 'Monoton', sans-serif;
 	font-weight: 800;
 	color: #000;
 	font-size: 1.5rem;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 }
 
 .subtitle {
 	font-family: 'Crimson Text', sans-serif;
-	font-weight: 800;
-	color: #000;
-	font-size: 1rem;
-	letter-spacing: 0.5px;
-	padding: 10px;
+	font-weight: 600;
+	color: #1ccca8;
+	font-size: .75rem;
+	letter-spacing: 1.5px;
 }
 
 .nav-item {
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
-	font-size: 0.8rem;
+	font-size: 0.7rem;
 	font-weight: 300;
 	letter-spacing: 2px;
 }
@@ -152,7 +151,7 @@ input:focus, textarea:focus {
 }
 
 .post-image img:hover {
-	opacity: 0.8;
+	opacity: 0.9;
   filter: alpha(opacity=80);
 }
 
@@ -215,5 +214,5 @@ input:focus, textarea:focus {
 —————————————————————————————————————————————————————————————————————— */
 
 footer {
-	border-top: 1px solid #eee;
+	border-top: 2px solid #eee;
 }
